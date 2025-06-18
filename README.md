@@ -1,6 +1,6 @@
 # 🍹 Fresh Juice - Interactive Beverage Showcase
 
-(https://github.com/user-attachments/assets/55e7adb6-6b5a-4888-8d85-1c217b1eedc3)
+https://github.com/user-attachments/assets/55e7adb6-6b5a-4888-8d85-1c217b1eedc3
 
 ## 🛠️ Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
